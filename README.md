@@ -1,7 +1,7 @@
 <div style="display: inline_block">
 <h1 align="center">Hi 👋, I'm Luis Felipe</h1>
 <h3 align="left">Connect with me:</h3>
-- 👨‍💻 Acesse meu **portfólio** clicando [aqui](https://luissfelipe9.github.io/).
+- 👨‍💻 Acesse meu **portfólio** clicando https://luissfelipe9.github.io/.
 <p align="left">
 </p>
 </div>
